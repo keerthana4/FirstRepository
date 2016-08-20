@@ -1,2 +1,2 @@
 # FirstRepository
-The firest repository
+The first repository
